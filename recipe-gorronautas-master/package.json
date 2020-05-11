@@ -7,7 +7,7 @@
   "author": "p4xk3",
   "license": "MIT",
   "config": {
-    "serviceURL": "http://etereoarte.com/chat/chat-movil/",
+    "serviceURL": "https://etereoarte.com/chat/chat-movil/",
     "serviceName": "gorronautas",
     "message": "gorronautas",
     "popup": [],
