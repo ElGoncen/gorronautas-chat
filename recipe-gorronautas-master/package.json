@@ -1,0 +1,23 @@
+{
+  "id": "gorronautas",
+  "name": "gorronautas",
+  "version": "1.0.0",
+  "description": "gorronautas",
+  "main": "index.js",
+  "author": "p4xk3",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://etereoarte.com/chat/chat-movil/",
+    "serviceName": "gorronautas",
+    "message": "gorronautas",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "customURL": false,
+    "hasTeamID": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
